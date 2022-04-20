@@ -1,8 +1,8 @@
-Website of a fictional beauty salon, made with HTML, CSS and JAVASCRIPT learned in Rocketset's Discover class with teacher Mayk Brito, fully responsive.
+Website of a fictional beauty salon, made with HTML, CSS and JAVASCRIPT, learned in Rocketset's Discover class with teacher Mayk Brito, fully responsive.
 I made changes due some incompatibilities of the Swiper library and other details of the CSS of the page as a whole.<br>
 You can view the project through this <a href="https://alexsmarra.github.io/beautysalon/">link</a>.
 <hr>
-<p>Site de um salão de beleza fictício, feito com HTML, CSS e JAVASCRIPT aprendido na aula do Discover da Rocketseat com o professor Mayk Brito, totalmente responsivo. 
+<p>Site de um salão de beleza fictício, feito com HTML, CSS e JAVASCRIPT, aprendido na aula do Discover da Rocketseat com o professor Mayk Brito, totalmente responsivo. 
 Fiz alterações devido à algumas incompatiblidades com a biblioteca Swiper e outros detalhes do próprio CSS da página como um todo.
 Você pode ver esse trabalho através desse <a href="https://alexsmarra.github.io/beautysalon/">link</a>.</p>
 
